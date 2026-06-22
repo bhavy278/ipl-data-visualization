@@ -3,7 +3,9 @@
 **Course:** IFT 533 – Data Visualization and Reporting for IT  
 **Professor:** Prof. Asmaa Elbadrawy  
 **Team:** Bhavy Patel · Harsh Ramanik Shah · Pooja Kondath · Rishi Nikunjkumar Shah
-**Dashboard URL:** https://public.tableau.com/app/profile/bhavy.patel8319/viz/ipl_dashboard_17821614830350/Dashboard1?publish=yes
+
+
+### **Dashboard URL:** https://public.tableau.com/app/profile/bhavy.patel8319/viz/ipl_dashboard_17821614830350/Dashboard1?publish=yes
 ---
 
 ## Overview
